@@ -1,0 +1,12 @@
+[
+    {
+        "type": "Table",
+        "title": "User data",
+        "url": "tableData"
+    },
+    {
+        "type": "Chart",
+        "title": "User Chat",
+        "url": "chartData"
+    }
+]
